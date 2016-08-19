@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Tao/Downloads/项目/Android_Studio_Workspace/CrazyBird/app/build/intermediates/res/merged/debug/menu/multiplay.xml",
+        "source": "/Users/Tao/Downloads/项目/Android_Studio_Workspace/CrazyBird/app/src/main/res/menu/multiplay.xml"
+    },
+    {
+        "merged": "/Users/Tao/Git/CrazyBird-Github/app/build/intermediates/res/merged/debug/menu/multiplay.xml",
+        "source": "/Users/Tao/Git/CrazyBird-Github/app/src/main/res/menu/multiplay.xml"
+    }
+]

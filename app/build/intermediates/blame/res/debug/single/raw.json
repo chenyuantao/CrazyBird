@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/Tao/Downloads/项目/Android_Studio_Workspace/CrazyBird/app/build/intermediates/res/merged/debug/raw/win.ogg",
+        "source": "/Users/Tao/Downloads/项目/Android_Studio_Workspace/CrazyBird/app/src/main/res/raw/win.ogg"
+    },
+    {
+        "merged": "/Users/Tao/Downloads/项目/Android_Studio_Workspace/CrazyBird/app/build/intermediates/res/merged/debug/raw/lose.ogg",
+        "source": "/Users/Tao/Downloads/项目/Android_Studio_Workspace/CrazyBird/app/src/main/res/raw/lose.ogg"
+    },
+    {
+        "merged": "/Users/Tao/Git/CrazyBird-Github/app/build/intermediates/res/merged/debug/raw/fly.ogg",
+        "source": "/Users/Tao/Git/CrazyBird-Github/app/src/main/res/raw/fly.ogg"
+    },
+    {
+        "merged": "/Users/Tao/Git/CrazyBird-Github/app/build/intermediates/res/merged/debug/raw/dead.ogg",
+        "source": "/Users/Tao/Git/CrazyBird-Github/app/src/main/res/raw/dead.ogg"
+    },
+    {
+        "merged": "/Users/Tao/Git/CrazyBird-Github/app/build/intermediates/res/merged/debug/raw/lose.ogg",
+        "source": "/Users/Tao/Git/CrazyBird-Github/app/src/main/res/raw/lose.ogg"
+    },
+    {
+        "merged": "/Users/Tao/Downloads/项目/Android_Studio_Workspace/CrazyBird/app/build/intermediates/res/merged/debug/raw/dead.ogg",
+        "source": "/Users/Tao/Downloads/项目/Android_Studio_Workspace/CrazyBird/app/src/main/res/raw/dead.ogg"
+    },
+    {
+        "merged": "/Users/Tao/Git/CrazyBird-Github/app/build/intermediates/res/merged/debug/raw/score.ogg",
+        "source": "/Users/Tao/Git/CrazyBird-Github/app/src/main/res/raw/score.ogg"
+    },
+    {
+        "merged": "/Users/Tao/Git/CrazyBird-Github/app/build/intermediates/res/merged/debug/raw/win.ogg",
+        "source": "/Users/Tao/Git/CrazyBird-Github/app/src/main/res/raw/win.ogg"
+    },
+    {
+        "merged": "/Users/Tao/Downloads/项目/Android_Studio_Workspace/CrazyBird/app/build/intermediates/res/merged/debug/raw/fly.ogg",
+        "source": "/Users/Tao/Downloads/项目/Android_Studio_Workspace/CrazyBird/app/src/main/res/raw/fly.ogg"
+    },
+    {
+        "merged": "/Users/Tao/Downloads/项目/Android_Studio_Workspace/CrazyBird/app/build/intermediates/res/merged/debug/raw/score.ogg",
+        "source": "/Users/Tao/Downloads/项目/Android_Studio_Workspace/CrazyBird/app/src/main/res/raw/score.ogg"
+    },
+    {
+        "merged": "/Users/Tao/Downloads/项目/Android_Studio_Workspace/CrazyBird/app/build/intermediates/res/merged/debug/raw/show.ogg",
+        "source": "/Users/Tao/Downloads/项目/Android_Studio_Workspace/CrazyBird/app/src/main/res/raw/show.ogg"
+    },
+    {
+        "merged": "/Users/Tao/Git/CrazyBird-Github/app/build/intermediates/res/merged/debug/raw/show.ogg",
+        "source": "/Users/Tao/Git/CrazyBird-Github/app/src/main/res/raw/show.ogg"
+    }
+]

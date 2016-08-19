@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="xxhdpi"
+    format="7"
+    timestamp="61857173194378"
+    token="-2146690172132268471" >
+
+    <task
+        name="javac"
+        duration="1093" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="244" />
+    <task
+        name="verifier"
+        duration="32" />
+
+    <artifact
+        location="/Users/Tao/Git/CrazyBird-Github/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="61857173194378" >
+        <artifact
+            location="/Users/Tao/Git/CrazyBird-Github/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

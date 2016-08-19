@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+ 
+    <color name="about_logo_tv_color">#595959</color>
+    <color name="about_line_gray">#cccccc</color>
+    <color name="about_produce_black_light">#5b5b5b</color>
+	<color name="connect_gray1">#717171</color>
+	<color name="connect_btn_green">#46c25a</color>
+	<color name="connect_font_wait_text_color">#4c4c4c</color>
+	
+</resources>

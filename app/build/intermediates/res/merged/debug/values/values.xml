@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="about_line_gray">#cccccc</color>
+    <color name="about_logo_tv_color">#595959</color>
+    <color name="about_produce_black_light">#5b5b5b</color>
+    <color name="connect_btn_green">#46c25a</color>
+    <color name="connect_font_wait_text_color">#4c4c4c</color>
+    <color name="connect_gray1">#717171</color>
+    <dimen name="about_logo_height">220dp</dimen>
+    <dimen name="about_logo_margin_16">16dp</dimen>
+    <dimen name="about_logo_margin_bottom">15dp</dimen>
+    <dimen name="about_logo_margin_top">20dp</dimen>
+    <dimen name="about_logo_width">100dp</dimen>
+    <dimen name="about_produce_height">60dp</dimen>
+    <dimen name="about_produce_padding_left">20dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="font_size_10">10sp</dimen>
+    <dimen name="font_size_12">12sp</dimen>
+    <dimen name="font_size_14">14sp</dimen>
+    <dimen name="font_size_16">16sp</dimen>
+    <dimen name="font_size_18">18sp</dimen>
+    <dimen name="font_size_20">20sp</dimen>
+    <dimen name="font_size_22">22sp</dimen>
+    <dimen name="font_size_24">24sp</dimen>
+    <dimen name="font_size_26">26sp</dimen>
+    <dimen name="font_size_28">28sp</dimen>
+    <dimen name="font_size_30">30sp</dimen>
+    <dimen name="font_size_32">32sp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Crazy Bird</string>
+    <string name="hello_world">Hello world!!</string>
+    <string name="title_activity_dialog">DialogActivity</string>
+    <string name="title_activity_multiplay">MultiplayActivity</string>
+    <style name="AppBaseTheme" parent="android:Theme.Black.NoTitleBar">
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
